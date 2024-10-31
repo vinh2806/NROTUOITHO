@@ -473,7 +473,7 @@ include ('head.php');
               </small>
               <br>
               <small>
-                <span id="currentYear"></span> © Được Vận Hành Bởi <b>
+                <span id="currentYear"></span> © Được Vận Hành Bởi NGUYEN PHONG VINH<b>
                   <u>Nro Tuổi Thơ</u>
                 </b>
               </small>

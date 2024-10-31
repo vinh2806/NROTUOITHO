@@ -319,8 +319,7 @@ if ($_dangnhap == 0) {
         <div style="line-height: 15px;font-size: 12px;padding-right: 5px;margin-bottom: 8px;padding-top: 2px;"
           class="text-center">
           <img height="12" src="../an_remake/images/icon/12.png" style="vertical-align: middle;">
-          <span class="text-black" style="vertical-align: middle;">Dành cho người chơi trên 12 tuổi. Chơi quá 180 phút
-            mỗi ngày sẽ có hại cho điện thoại.</span>
+          <span class="text-black" style="vertical-align: middle;">Dành cho người chơi trên 180 phút mỗi ngày</span>
         </div>
         <div class="p-xs">
           <a href="/">
@@ -520,8 +519,7 @@ if ($_dangnhap == 0) {
             <div style="line-height: 15px;font-size: 12px;padding-right: 5px;margin-bottom: 8px;padding-top: 2px;"
               class="text-center">
               <img height="12" src="../image/12.png" style="vertical-align: middle;">
-              <span class="text-black" style="vertical-align: middle;">Dành cho người chơi trên 12 tuổi. Chơi quá 180 phút
-                mỗi ngày sẽ có hại cho điện thoại.</span>
+              <span class="text-black" style="vertical-align: middle;">Dành cho người chơi trên 180 phút mỗi ngày</span>
             </div>
             <div class="p-xs">
               <a href="/">
@@ -612,8 +610,7 @@ if ($_dangnhap == 0) {
             <div style="line-height: 15px;font-size: 12px;padding-right: 5px;margin-bottom: 8px;padding-top: 2px;"
               class="text-center">
               <img height="12" src="assets/images/icon/12.png" style="vertical-align: middle;">
-              <span class="text-white" style="vertical-align: middle;">Dành cho người chơi trên 12 tuổi. Chơi quá 180 phút
-                mỗi ngày sẽ có hại cho điện thoại.</span>
+              <span class="text-white" style="vertical-align: middle;">Dành cho người chơi trên 180 phút mỗi ngày</span>
             </div>
           </div>
           <?php

@@ -6,7 +6,7 @@ $_tientogioithieu = 'NRO TUOI THO';
 $db_host="localhost";
 $db_user="root";
 $db_pass="";
-$db_name="tuoitho";
+$db_name="nrotuoitho";
 //api
 $w_api_momo='';
 $w_api_momo_id='';

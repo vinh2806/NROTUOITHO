@@ -136,7 +136,7 @@ if ($_dangnhap == 1) {
       </small>
       <br>
       <small>
-        <span id="currentYear">2024</span> © Được Vận Hành Bởi <b>
+        <span id="currentYear">2024</span> © Được Vận Hành Bởi NGUYEN PHONG VINH<b>
           <u>Nro Kuroko</u>
         </b>
       </small>

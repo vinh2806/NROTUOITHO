@@ -162,14 +162,14 @@ if ($result->num_rows > 0) {
     
     
     <div class="text-center mt-1">
-       <b style="font-size:13px;" class="text-white">Tham gia cộng đồng giao lưu game với chúng tớ.</b>
+       <b style="font-size:13px;" class="text-white">Tham gia cộng đồng giao lưu game với chúng sinh bìnk dark</b>
        <br>
        <a href="" target="_blank"><img src="assets/images/icon/findondiscord.png" style="max-width:100px" class="mt-1"></a>
        <a href="https://www.facebook.com/groups/ngocronghades" target="_blank"><img src="assets/images/icon/findonfb.png" style="max-width:100px" class="mt-1"></a>
    </div>
     <div class="text-center text-white">
         Trò chơi không có bản quyền chính thức, hãy cân nhắc kỹ trước khi tham gia.<br>
-        Chơi quá 180 phút một ngày sẽ ảnh hưởng đến sức khỏe.
+        Chơi quá 180 phút một ngày kệ mầy
     </div>
 </footer>        </div>
     </body>

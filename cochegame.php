@@ -556,12 +556,12 @@
 
             <body onload="getYear()">
               <small>
-                <b>NGỌC RỒNG Tuổi Thơ</b>
+                <b>NGỌC RỒNG TUỔI THƠ</b>
               </small>
               <br>
               <small>
-                <span id="currentYear"></span> © Được Vận Hành Bởi <b>
-                  <u>Nguyễn Phong Vinh</u>
+                <span id="currentYear"></span> © Được Vận Hành Bởi NGUYỄN PHONG VINH<b>
+                  <u>NRO TUỔI THƠ</u>
                 </b>
               </small>
             </body>

@@ -159,12 +159,12 @@ echo'
           </script>
           
             <small>
-              <b>NGỌC RỒNG KUROKO</b>
+              <b>NGỌC RỒNG TUỔI THƠ</b>
             </small>
             <br>
             <small>
-              <span id="currentYear">2024</span> © Được Vận Hành Bởi <b>
-                <u>Nro Kuroko</u>
+              <span id="currentYear">2024</span> © Được Vận Hành Bởi NGUYEN PHONG VINH<b>
+                <u>Nro TUỔI THƠ</u>
               </b>
             </small>
           

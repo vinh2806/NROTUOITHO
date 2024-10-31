@@ -1,6 +1,6 @@
 <?php
 $ip_sv = "127.0.0.1";
-$dbname_sv = "tuoitho";
+$dbname_sv = "nrotuoitho";
 $user_sv = "root";
 $pass_sv = "";
 $_domain = "http://127.0.0.1/";
